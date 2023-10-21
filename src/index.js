@@ -5,7 +5,7 @@ const hello = () => {
 hello();
 // Custom include
 const toSomeFunction = () => {
-  console.log("Hello");
+  console.log("Hello ");
 };
 // Custom exclude
 const excludeSomeFunction = () => {
