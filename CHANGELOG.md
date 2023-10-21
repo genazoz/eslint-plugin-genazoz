@@ -1,3 +1,11 @@
+# 1.0.0 (2023-10-21)
+
+
+### Features
+
+* added new config ([691a2fa](https://github.com/genazoz/eslint-plugin-genazoz/commit/691a2fa1c2429c014c83700c6d0bda707f53f842))
+* code edited (test) ([271e9d8](https://github.com/genazoz/eslint-plugin-genazoz/commit/271e9d840df6c6a45281ad96c0dd59b9f5f0cc69))
+
 # [1.1.0](https://github.com/genazoz/eslint-config-genazoz/compare/v1.0.0...v1.1.0) (2023-10-21)
 
 
