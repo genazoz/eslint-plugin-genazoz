@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/genazoz/eslint-plugin-genazoz/compare/v1.0.0...v1.1.0) (2023-10-21)
+
+
+### Features
+
+* code edited (test) ([d5480c4](https://github.com/genazoz/eslint-plugin-genazoz/commit/d5480c4b1a94eb4babe37c191e15b830108934f7))
+
 # 1.0.0 (2023-10-21)
 
 
