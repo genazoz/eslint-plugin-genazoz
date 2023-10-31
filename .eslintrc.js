@@ -20,6 +20,7 @@ module.exports = {
         message: "",
       },
     ],
+    "react-hooks/rules-of-hooks": "error",
     "import/extensions": "off",
     "import/no-dynamic-require": "off",
     "import/no-extraneous-dependencies": "off",
