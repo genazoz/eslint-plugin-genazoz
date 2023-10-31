@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/genazoz/eslint-plugin-genazoz/compare/v1.2.0...v1.3.0) (2023-10-31)
+
+
+### Features
+
+* added react-hooks rules ([8a8fa41](https://github.com/genazoz/eslint-plugin-genazoz/commit/8a8fa41a567e39add396bc9bec1854abb518ecce))
+
 # [1.2.0](https://github.com/genazoz/eslint-plugin-genazoz/compare/v1.1.0...v1.2.0) (2023-10-21)
 
 
